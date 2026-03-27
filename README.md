@@ -45,5 +45,5 @@ Users can upload a gem image, and the app returns predictions with confidence le
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MassInshaf/FYP_2025.git
-cd FYP_2025
+git clone https://github.com/MassInshaf/FYP_2025-26.git
+cd FYP_2025-26
